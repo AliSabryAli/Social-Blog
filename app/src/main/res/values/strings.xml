@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SocialBlog</string>
+    <string name="create">Create Account</string>
+    <string name="signin">Sign In</string>
+    <string name="enterpassword">enter password</string>
+    <string name="email">enter email</string>
+    <string name="add_title">post title</string>
+    <string name="desc">post description</string>
+    <string name="submit">Submit Post</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="pass">password</string>
+    <string name="email_creat">email</string>
+    <string name="creat_account">Create Account</string>
+</resources>

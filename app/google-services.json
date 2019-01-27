@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "828861807771",
+    "firebase_url": "https://socialblog-6651f.firebaseio.com",
+    "project_id": "socialblog-6651f",
+    "storage_bucket": "socialblog-6651f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828861807771:android:049d9026de28b8e5",
+        "android_client_info": {
+          "package_name": "com.ali.socialblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828861807771-jt04ako05a5tvh25d4v0e88dsdjvmf5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ali.socialblog",
+            "certificate_hash": "bf4443ecb71fecc8cdcdddb94bbd8ecb2a11ebb9"
+          }
+        },
+        {
+          "client_id": "828861807771-brnd27aeh9lol2a3mneblt2drjotk4mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Q51hSBBloXH5546ee-eNQZpaAIYyfS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828861807771-brnd27aeh9lol2a3mneblt2drjotk4mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
